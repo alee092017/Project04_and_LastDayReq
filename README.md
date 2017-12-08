@@ -19,7 +19,7 @@ See below for more details!
   * Mobile First Design
   * Clean Commented Code
 
-- **Final Project**: See [this readme](./final-project.md) for more details!!
+- **Final Project**: See [this readme](https://github.com/alee092017/Project04_and_LastDayReq/blob/master/Project04Req.md#project-4---your-thesis-project) for more details!!
 
 ### Expectations
 ---
