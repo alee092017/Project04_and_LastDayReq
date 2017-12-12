@@ -1,6 +1,7 @@
 # Project 04 Proposal:
 
 ## Requirements:
+
       1.  Full Stack
       2.  Interactive front-end
       3.  Full CRUD (be a complete product?)
@@ -9,23 +10,26 @@
       6.  Deployed online; publicly accessible.
 
 ## App Name: Instant Schadenfreude
-      inspiration (also, I'm really sorry this has to be al franken):
-      ![Stuart Smalley's Daily Affirmations](http://i1.ytimg.com/vi/6ldAQ6Rh5ZI/mqdefault.jpg)
-      ![Stuart Mirror](http://dmr2dn0zhdkwo.cloudfront.net/wp-content/uploads/2016/05/stuart-smalley.jpg)
+Inspiration (also, I'm really sorry this has to be al franken)
+      
+![Stuart Smalleys Daily Affirmations](http://i1.ytimg.com/vi/6ldAQ6Rh5ZI/mqdefault.jpg)
+      
+![Stuart Mirror](http://dmr2dn0zhdkwo.cloudfront.net/wp-content/uploads/2016/05/stuart-smalley.jpg)
 
 Basically, are you feeling like this?
-      ![squishsquash](https://i.imgur.com/poLI3e2.gif)
+
+![squishsquash](https://i.imgur.com/poLI3e2.gif)
       
-      ![watermelon guts](https://i.imgur.com/YhcjXkQ.gif)
+![watermelon guts](https://i.imgur.com/YhcjXkQ.gif)
       
-      Yes?
-      well then, please enter
+Yes?
+well then, please enter      
+
+![please enter](http://moziru.com/images/door-clipart-animated-gif-9.gif)
       
-      ![please enter](http://moziru.com/images/door-clipart-animated-gif-9.gif)
-      
-      No?
-      Well come back when you are.
-      ![kick out](https://vignette.wikia.nocookie.net/disneyskickinit/images/d/de/Drop_kick.gif/revision/latest?cb=20130529224939)
+No?
+Well come back when you are.
+![kick out](https://vignette.wikia.nocookie.net/disneyskickinit/images/d/de/Drop_kick.gif/revision/latest?cb=20130529224939)
 
 Is this how you react bad things happen to other people?
 
@@ -71,17 +75,15 @@ Come in & welcome to your Instant Schadenfreude
   
   
 ## Timelines:
-
-    [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
+[Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
 
 ## Foreseen challenges or obstacles:
 
-      - the V of MVC.  creating views always trips me up more so than anything else.
-      - All of Auth
+ - the V of MVC.  creating views always trips me up more so than anything else.
+ - All of Auth
 
 ## Link to this repo
-
-      - [My project 04 repo](https://github.com/alee092017/Project04_and_LastDayReq)
+[My project 04 repo](https://github.com/alee092017/Project04_and_LastDayReq)
 
 
 
