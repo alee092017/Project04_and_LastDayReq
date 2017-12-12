@@ -14,9 +14,7 @@
       ![Stuart Mirror](http://dmr2dn0zhdkwo.cloudfront.net/wp-content/uploads/2016/05/stuart-smalley.jpg)
 
 Basically, are you feeling like this?
-
       ![squishsquash](https://i.imgur.com/poLI3e2.gif)
-      
       ![watermelon guts](https://i.imgur.com/YhcjXkQ.gif)
       
       Yes?
@@ -37,7 +35,7 @@ Is this how you react bad things happen to other people?
 Yes?
 Come in & welcome to your Instant Schadenfreude 
       
-  ![tired home](https://media.giphy.com/media/d31w1AMoH2oqID8Q/giphy.gif)
+  ![tired home](http://gph.is/2bKttMX)
   
   No?
   Please leave immediately
