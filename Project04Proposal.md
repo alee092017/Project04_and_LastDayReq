@@ -1,6 +1,6 @@
-#Project 04 Proposal:
+# Project 04 Proposal:
 
-##Requirements:
+## Requirements:
       1.  Full Stack
       2.  Interactive front-end
       3.  Full CRUD (be a complete product?)
@@ -8,7 +8,7 @@
       5.  Visually impressive design
       6.  Deployed online; publicly accessible.
 
-##App Name: Instant Schadenfreude
+## App Name: Instant Schadenfreude
       inspiration (also, I'm really sorry this has to be al franken):
       ![Stuart Smalley's Daily Affirmations](http://i1.ytimg.com/vi/6ldAQ6Rh5ZI/mqdefault.jpg)
       ![Stuart Mirror](http://dmr2dn0zhdkwo.cloudfront.net/wp-content/uploads/2016/05/stuart-smalley.jpg)
@@ -43,7 +43,7 @@ Come in & welcome to your Instant Schadenfreude
   
   ![cary](https://media.giphy.com/media/Bt6RvwFsIMU8M/giphy.gif)
 
-##MVP: 
+## MVP: 
   - Instant Schadenfreude--It’s basically a shortcut to stupid gifs of people tripping, falling, getting hit in their junk or face, etc;  
         - the api call to giphy will be taken from a set list provided to the user like walking, running, cycling, pro sports, and the search automatically add fail to the search.  
         - so if someone clicks on ‘pro sports’ the api call that goes to giphy is pro sports fail.  
@@ -56,26 +56,32 @@ Come in & welcome to your Instant Schadenfreude
   - Delete a gif
   - Add comment for a gif
   - Search for gifs
-  - 
-##Reach Goals:
+## Reach Goals:
   - auth?  
   -  I'll be honest with you, given my performance over the last 3 projects the whole thing seems like a reach goal.  I'd like to deploy
-##User Stories & Wire Frames:
+## User Stories & Wire Frames:
   - home page-
       - display all categories (this will be a short list of categories that live on this page)
    - user can click on a category to display a short list of gifs
    - user can then favorite, add (?!)
 
-##Planned Technologies:
+## Planned Technologies:
   - Will build this on Rails
-  - Use giphy API--there is also this which I may spend a few hours exploring this [ruby gem](https://github.com/sebasoga/giphy)--but it seems like it might be unnecessary.
-##Timelines:
+  - Use giphy API--there is also this which I may spend a few hours exploring this [ruby gem](https://github.com/sebasoga/giphy) but it seems like it might be unnecessary.
+  
+  
+## Timelines:
+
     [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
-##Foreseen challenges or obstacles:
-    - the V of MVC.  creating views always trips me up more so than anything else.
-    - All of Auth
-##Link to this repo
-    - [My project 04 repo](https://github.com/alee092017/Project04_and_LastDayReq)
+
+## Foreseen challenges or obstacles:
+
+      - the V of MVC.  creating views always trips me up more so than anything else.
+      - All of Auth
+
+## Link to this repo
+
+      - [My project 04 repo](https://github.com/alee092017/Project04_and_LastDayReq)
 
 
 
