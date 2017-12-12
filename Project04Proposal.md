@@ -12,24 +12,37 @@
       inspiration (also, I'm really sorry this has to be al franken):
       ![Stuart Smalley's Daily Affirmations](http://i1.ytimg.com/vi/6ldAQ6Rh5ZI/mqdefault.jpg)
       ![Stuart Mirror](http://dmr2dn0zhdkwo.cloudfront.net/wp-content/uploads/2016/05/stuart-smalley.jpg)
+
 Basically, are you feeling like this?
+
       ![squishsquash](https://i.imgur.com/poLI3e2.gif)
+      
       ![watermelon guts](https://i.imgur.com/YhcjXkQ.gif)
+      
       Yes?
       well then, please enter
+      
       ![please enter](http://moziru.com/images/door-clipart-animated-gif-9.gif)
+      
       No?
       Well come back when you are.
       ![kick out](https://vignette.wikia.nocookie.net/disneyskickinit/images/d/de/Drop_kick.gif/revision/latest?cb=20130529224939)
-Do you need a good laugh?
-      ![laughing](https://media1.tenor.com/images/eaea680232800fa703fad66e067c0b5d/tenor.gif?itemid=4866628)
-      ![adele faceplant](https://i.pinimg.com/originals/a3/64/34/a36434f9785fe9b749805fd22eb53c26.gif)
-      Yes?
-      Come in & welcome to your Instant Schadenfreude 
-      ![tired home](https://media.giphy.com/media/d31w1AMoH2oqID8Q/giphy.gif)
-      No?
-      Please leave immediately
-      ![cary](https://media.giphy.com/media/Bt6RvwFsIMU8M/giphy.gif)
+
+Is this how you react bad things happen to other people?
+
+![laughing](https://media1.tenor.com/images/eaea680232800fa703fad66e067c0b5d/tenor.gif?itemid=4866628)
+
+![adele faceplant](https://i.pinimg.com/originals/a3/64/34/a36434f9785fe9b749805fd22eb53c26.gif)
+
+Yes?
+Come in & welcome to your Instant Schadenfreude 
+      
+  ![tired home](https://media.giphy.com/media/d31w1AMoH2oqID8Q/giphy.gif)
+  
+  No?
+  Please leave immediately
+  
+  ![cary](https://media.giphy.com/media/Bt6RvwFsIMU8M/giphy.gif)
 
 ##MVP: 
   - Instant Schadenfreude--It’s basically a shortcut to stupid gifs of people tripping, falling, getting hit in their junk or face, etc;  
