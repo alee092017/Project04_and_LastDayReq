@@ -43,6 +43,8 @@
   - Rails, full stack
   - API to local database, not using an external api
   - will research Devise gem to see if this can streamline some of the auth stuff
+            - Devise actually seems do-able...I'm going to try it. 
+            - [Devise Documentation](http://devise.plataformatec.com.br/)
   
 ## Timelines:
 [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
