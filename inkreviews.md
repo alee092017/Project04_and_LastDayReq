@@ -34,6 +34,11 @@
       - product form
       - review form 
 
+## DB structure
+
+![Ink App DB tables](https://i.imgur.com/HFhWfDB.png)
+
+
 ## Planned Technologies:
   - Rails, full stack
   - API to local database, not using an external api
