@@ -48,8 +48,8 @@
  - All of Auth
  - Procrastination- don't jump down a rabbit hole of assembling stuff for the seedfile.  just pull from jetpens or mochithings or muji.  
 
-## Link to this repo
-[My project 04 repo](https://github.com/alee092017/Project04_and_LastDayReq)
+## Link to project repo
+[My project 04 repo-revised](https://github.com/alee092017/InkAppAgain)
 
 
 
