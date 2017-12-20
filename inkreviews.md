@@ -40,7 +40,8 @@
   - will research Devise gem to see if this can streamline some of the auth stuff
   - Paperclip
   - ImageMagick
-  - raty.js or ratyrate
+  - raty.js or ratyrate--did not use, couldn't get it to work.
+  - used searchkick (but was also unable to get search results to display in the view-it's still showing a blank page.)
   
 ## Timelines:
 [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
@@ -53,6 +54,8 @@
 
 ## Link to project repo
 [My project 04 repo-revised](https://github.com/alee092017/InkAppAgain)
+- full commit history is here
+- i reference a bunch of things online but followed closely a tutorial by Mackenzie Child on how to build a movie review app. Code was not copied.  I have 10 pages of notes I took in order to get mine functioning.
 
 ## Deployed on Heroku:
 absolutely doesn't work
@@ -61,6 +64,7 @@ absolutely doesn't work
 - kept giving an error about yarn but I have yarn installed but not declared in the gemfile...??
 - also looks like the fatal error is still due to database issue and still requires more troubleshooting.
 - Procfile--was not included and didn't require puma in gemfile....
+- [command line errors in terminal-and link to deploy repo](https://github.com/alee092017/InkAppDeploy/blob/master/TerrminalOutput-HerokuErrors)
 
 
 

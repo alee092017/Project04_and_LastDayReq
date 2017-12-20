@@ -1,3 +1,5 @@
+# pls go to the inkreviews.md file for the actual project details.
+
 # Project04_and_LastDayReq
 
 # Your Portfolio of Apps
