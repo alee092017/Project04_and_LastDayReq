@@ -34,14 +34,24 @@
       - product form
       - review form 
 
+## DB structure
+
+![Ink App DB tables](https://i.imgur.com/HFhWfDB.png)
+
+
 ## Planned Technologies:
   - Rails, full stack
   - API to local database, not using an external api
   - will research Devise gem to see if this can streamline some of the auth stuff
+<<<<<<< HEAD
   - Paperclip
   - ImageMagick
   - raty.js or ratyrate--did not use, couldn't get it to work.
   - used searchkick (but was also unable to get search results to display in the view-it's still showing a blank page.)
+=======
+            - Devise actually seems do-able...I'm going to try it. 
+            - [Devise Documentation](http://devise.plataformatec.com.br/)
+>>>>>>> 736086cf69ef1b2427290eb7501de069b8cf7a7b
   
 ## Timelines:
 [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
