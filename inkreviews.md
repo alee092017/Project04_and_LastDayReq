@@ -38,6 +38,9 @@
   - Rails, full stack
   - API to local database, not using an external api
   - will research Devise gem to see if this can streamline some of the auth stuff
+  - Paperclip
+  - ImageMagick
+  - raty.js or ratyrate
   
 ## Timelines:
 [Pls see my project page](https://github.com/alee092017/Project04_and_LastDayReq/projects/1)
@@ -46,10 +49,18 @@
 
  - the V of MVC.  creating views always trips me up more so than anything else.
  - All of Auth
- - Procrastination- don't jump down a rabbit hole of assembling stuff for the seedfile.  just pull from jetpens or mochithings or muji.  
+ - Procrastination- don't jump down a rabbit hole of assembling stuff for the seedfile.  just pull from jetpens or mochithings or muji. 
 
 ## Link to project repo
 [My project 04 repo-revised](https://github.com/alee092017/InkAppAgain)
+
+## Deployed on Heroku:
+absolutely doesn't work
+[Access Heroku Page here ](https://radiant-brook-89291.herokuapp.com/users/sign_in)
+- issues with sqlite3 had to replace with postgres (duh)
+- kept giving an error about yarn but I have yarn installed but not declared in the gemfile...??
+- also looks like the fatal error is still due to database issue and still requires more troubleshooting.
+- Procfile--was not included and didn't require puma in gemfile....
 
 
 
